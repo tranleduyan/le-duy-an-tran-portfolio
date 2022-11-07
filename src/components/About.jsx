@@ -49,19 +49,19 @@ const About = () => {
                             </div>
                         </div>
                         <div>
-                        <p className='font-semibold text-lg sm:text-xl md:text-2xl mt-5'>2. Online Menu Management System</p>
+                        <p className='font-semibold text-lg sm:text-xl md:text-2xl mt-5'>2. Today-Do List!</p>
+                            <p className='md:px-5 leading-loose'>A Mini React To-Do List Web Application</p>
+                            <div className='mt-4 md:ml-3'>
+                            <a target="_blank" rel="noreferrer" href='https://stirring-druid-4d9125.netlify.app/' className='text-[#ffd700] border-[#ffd700] border-2 px-4 py-1 hover:bg-[#ffd700] hover:text-[#121212]'>DEMO</a> 
+                                <a target="_blank" rel="noreferrer" href='https://github.com/tranleduyan/TodayDoList' className='text-[#ffd700] border-[#ffd700] border-2 px-4 py-1 ml-3 hover:bg-[#ffd700] hover:text-[#121212]'>GITHUB</a>
+                            </div>
+                        </div>
+                        <div>
+                        <p className='font-semibold text-lg sm:text-xl md:text-2xl mt-5'>3. Online Menu Management System</p>
                             <p className='md:px-5 leading-loose'>A DubHack'22 Hackathon Entry Project</p>
                             <div className='mt-4 md:ml-3'>
                                 <button className='text-[#ffd700] border-[#ffd700] border-2 px-4 py-1 hover:bg-[#ffd700] hover:text-[#121212]'>DEMO NOT AVAILABLE</button> 
                                 <a target="_blank" rel="noreferrer" href='https://github.com/lethienantran/MenuManagementService' className='text-[#ffd700] border-[#ffd700] border-2 px-4 py-1 ml-3 hover:bg-[#ffd700] hover:text-[#121212]'>GITHUB</a>
-                            </div>
-                        </div>
-                        <div>
-                        <p className='font-semibold text-lg sm:text-xl md:text-2xl mt-5'>3. Pay By Plate Parking Station</p>
-                            <p className='md:px-5 leading-loose'>A Sophomore Year Project: A Pay Parking Station App</p>
-                            <div className='mt-4 md:ml-3'>
-                                <button className='text-[#ffd700] border-[#ffd700] border-2 px-4 py-1 hover:bg-[#ffd700] hover:text-[#121212]'>DEMO NOT AVAILABLE</button> 
-                                <a target="_blank" rel="noreferrer" href='https://github.com/tranleduyan/PayByPlateParkingStation' className='text-[#ffd700] border-[#ffd700] border-2 px-4 py-1 ml-3 hover:bg-[#ffd700] hover:text-[#121212]'>GITHUB</a>
                             </div>
                         </div>
                         <div>
