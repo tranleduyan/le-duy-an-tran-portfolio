@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/le-duy-an-tran-portfolio/static/css/main.9ac36de6.css",
-    "main.js": "/le-duy-an-tran-portfolio/static/js/main.c57ac6a3.js",
+    "main.js": "/le-duy-an-tran-portfolio/static/js/main.6bed631e.js",
     "static/media/self-image.JPG": "/le-duy-an-tran-portfolio/static/media/self-image.575fbf72e490e49aa2f9.JPG",
     "index.html": "/le-duy-an-tran-portfolio/index.html",
     "main.9ac36de6.css.map": "/le-duy-an-tran-portfolio/static/css/main.9ac36de6.css.map",
-    "main.c57ac6a3.js.map": "/le-duy-an-tran-portfolio/static/js/main.c57ac6a3.js.map"
+    "main.6bed631e.js.map": "/le-duy-an-tran-portfolio/static/js/main.6bed631e.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac36de6.css",
-    "static/js/main.c57ac6a3.js"
+    "static/js/main.6bed631e.js"
   ]
 }
